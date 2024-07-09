@@ -39,4 +39,5 @@ The dashboard uses data from various sources, including:
 
 The "YTD Power BI Dashboard" is a powerful tool for businesses to monitor their sales performance, profit margins, and target achievements. It enables data-driven decision-making by providing clear and actionable insights. By leveraging this dashboard, businesses can enhance their strategic planning, optimize operations, and achieve their sales goals.
 
+For a much better understanding of the project,here is a link to the Power BI file to download : https://1drv.ms/u/c/3ab975251b591aee/ESlRBsA736xCt3I7QkNfNtEBUbS8f4S6_zynnPsX3up2bw?e=syWT9K 
 
