@@ -1,7 +1,3 @@
-Here's the updated README file for the Power BI project based on the provided PDF content:
-
----
-
 # Year-to-Date (YTD) Power BI Dashboard
 
 ## Overview
@@ -43,6 +39,4 @@ The dashboard uses data from various sources, including:
 
 The "YTD Power BI Dashboard" is a powerful tool for businesses to monitor their sales performance, profit margins, and target achievements. It enables data-driven decision-making by providing clear and actionable insights. By leveraging this dashboard, businesses can enhance their strategic planning, optimize operations, and achieve their sales goals.
 
----
 
-Feel free to use this README file to describe your Power BI project in your resume or any other documentation. If you have any specific details or additional information you'd like to include, let me know!
